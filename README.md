@@ -1,3 +1,3 @@
 ## Demo
 
-![Parallax Web Site](parallax-grey.gif)
+![Parallax Web Site](parallax.gif)
